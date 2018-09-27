@@ -1,4 +1,5 @@
 jQuery Ripples Plugin
+https://www.youtube.com/watch?v=BC6ww08cTWo
 =====================
 
 By the powers of WebGL, add a layer of water to your HTML elements which will ripple by cursor interaction!
